@@ -2,6 +2,8 @@
 
 With typesript and gpgpu implementation
 
+Before run you need to create static folder for textures/models or remove them ffrom the code.
+
 ``` bash
 # Install dependencies (only the first time)
 npm install
